@@ -43,4 +43,5 @@ header {
 
 h1 {
   margin: 0;
+  text-align: center; /* Centra horizontalmente el texto */
 }
