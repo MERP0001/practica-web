@@ -12,7 +12,7 @@ body {
 }
 
 .box {
-  flex: 1 1 30%; /* Flexible: ocupa todo el espacio disponible, pero con un máximo de 30% de ancho */
+  width: calc(33.33% - 20px); /* Ancho fijo con margen */
   margin: 10px;
   padding: 20px;
   border: 1px solid #000;
